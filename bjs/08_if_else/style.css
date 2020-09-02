@@ -2,3 +2,13 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+input {
+    width: 200px;
+    margin-top: 150px;
+    margin-bottom: 0;
+}
+
+.begin {
+    display: none;
+}
